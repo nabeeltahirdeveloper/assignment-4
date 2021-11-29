@@ -1,0 +1,277 @@
+.bgimag {
+  background-image: url(image1.png);
+
+  background-repeat: no-repeat;
+  width:100%;
+  height: auto;
+}
+.color {
+  color: white;
+}
+.heading {
+  color: white;
+  font-size: 91px;
+  line-height: 100px;
+}
+.pargraphp1 {
+  color: white;
+  font-size: 29px;
+  margin-top: 30px;
+}
+
+.button {
+  color: white;
+  width: 150px;
+  border-radius: 20px;
+  margin-top: 20px;
+  background-color: rgb(228, 75, 60);
+}
+@media (max-width: 640px) {
+  .heading {
+    color: white;
+    font-size: 30px;
+    line-height: 60px;
+  }
+}
+/* 2nd page  */
+.main-div {
+  background-image: url(image3.png);
+  /* height: 100vh; */
+}
+.heading1 {
+  color: rgba(255, 0, 0, 0.781);
+  text-align: center;
+  font-weight: bold;
+}
+.pargrapha2 {
+  color: rgba(255, 0, 0, 0.781);
+  text-align: center;
+  margin: 30px;
+}
+.heading2 {
+  color: rgba(255, 0, 0, 0.781);
+}
+.bor {
+  align-items: center;
+  height: 150px;
+  border-radius: 120px;
+}
+/* 3rd page */
+.seaction3 {
+  background-color: rgba(255, 0, 0, 0.781);
+}
+ .bor2{
+    margin: 250px 0px;
+
+  height: auto;
+  border-radius: 300px;
+
+}
+@media(max-width:423px){
+  .bor2{
+    margin: 150px 0px 0px;
+width:100%;
+  height: auto;
+  border-radius: 300px;
+
+}
+}
+.heading3 {
+  margin-top: 253px;
+  color:white;
+  font-size: 75px;
+  font-weight:bold;
+  font-weight: 700;
+  
+  
+}
+.pargrapha3 {
+  margin-top: 43px;
+  font-size: 30px;
+  color: white;
+}
+.button2 {
+  width: 150px;
+  border-radius: 20px;
+  font-weight: bold;
+  margin-top: 30px;
+  color: rgba(255, 0, 0, 0.781);
+  
+}
+/* 4th page */
+.seaction4 {
+  background-color: #f6eedf;
+}
+.heading4 {
+  margin-top: 253px;
+  color: #f64b3c;
+  font-size: 75px;
+  font-weight: bold;
+}
+.pargraphp4 {
+  margin-top: 43px;
+  font-size: 30px;
+  color: #f64b3c;
+}
+.button3 {
+  width: 150px;
+  border-radius: 20px;
+  font-weight: bold;
+  margin: 30px;
+  background-color: rgba(255, 0, 0, 0.781);
+  color: white;
+}
+.bor3 {
+  margin: 250px 157px;
+
+  height: auto;
+  border-radius: 300px;
+}
+@media(max-width:423px){
+  .bor3{
+    margin: 150px 0px 0px;
+width:100%;
+  height: auto;
+  border-radius: 300px;
+
+}
+}
+/* 5th page */
+.seaction5 {
+  background-color: rgba(255, 0, 0, 0.781);
+}
+.heading5 {
+  margin-top: 93px;
+  color: white;
+  text-align: center;
+  font-weight: bold;
+}
+.pargrapha5 {
+  margin-top: 55px;
+  color: white;
+  font-size: 25px;
+  text-align: center;
+}
+.heading6 {
+  margin: 65px  0px;
+  padding-top: 120px;
+  text-align: center;
+  height: 350px;
+  border: 2px solid white;
+  border-radius: 180px;
+  color: white;
+}
+/* 6th page */
+.seaction6{
+  background-color:#f6eedf;
+}
+.heading9{
+  margin-top: 70px;
+  text-align: center;
+  font-size:75px ;
+  font-weight: bold;
+  color:rgba(255, 0, 0, 0.781);
+}
+.text{
+  margin: 150px 0px 30px;
+  background-color: #ffffff; 
+  color:rgba(255, 0, 0, 0.781);
+  text-align: center;
+
+}
+.heading10{
+padding-top:40px ;
+font-size:33px ;
+font-weight: bold;
+}
+
+.heading11{
+  margin-top: 45px;
+  font-size: 33px;
+  font-weight: bold;
+}
+.pargrapha6{
+  margin: 22px;
+  font-size: 20px;
+
+}
+.button4{
+  margin:30px 0px;
+  width:150px;
+  border-radius:20px ;
+  background-color:rgba(255, 0, 0, 0.781); 
+}
+/* 7th page */
+.seaction7{
+  background-image: url(./images/image6.png);
+  width: 100%;
+  height:100vh;
+}
+.pargrapha7{
+  margin-top: 270px;
+  font-size: 32px;
+  font-weight:bold ;
+  text-align:center;
+  color:white;
+}
+@media(max-width:720px) {
+  .pargrapha7{
+    margin-top:100px;
+  
+}
+}
+.heading12{
+  margin:81px 0px 110px;
+  font-size:45px ;
+  text-align: center;
+  color:white;
+}
+/* 8th page */
+.seaction8{
+  background-color: #f6eedf;;
+}
+.heading13{
+  margin-top: 230px;
+  color:#f64b3c;
+  text-align: center;
+  font-size: 75px;
+  font-weight: bold;
+}
+.pargrapha14{
+  margin-top: 50px ;
+  text-align: center;
+  color:#f64b3c;
+  font-size: 30px;
+}
+.button5{
+  margin: 84px 0px 50px;
+  background-color: white;
+  width:350px;
+  height:50px;
+  border-radius:25px 0px 0px 25px ;
+}
+@media(max-width:720px){
+  .button5{
+    margin: 84px 0px 50px;
+    background-color: white;
+    width:180px;
+    height:50px;
+    border-radius:25px 0px 0px 25px ;
+  }
+}
+.button6{
+  
+  background-color:#f64b3c;
+  color:white;
+  width:100px;
+  height: 50px;
+  border-radius:0px 25px 25px 0px ;
+}
+/* 9th page */
+.seaction9{
+  background-color: black;
+  color :white;
+}
+.pargrapha15{
+  font-size: 24px;
+}
